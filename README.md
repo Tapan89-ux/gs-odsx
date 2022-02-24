@@ -1,6 +1,7 @@
 # gs-odsx
 odsx-test
 
-This is Repo Major RELEASE
+Initial Commit
 
+Creating tag v1.0
 Version-1.0
